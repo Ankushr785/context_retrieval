@@ -92,7 +92,7 @@ plt.show()
 
 
     
-![png](Language_modelling_Contextual_retrievability_files/Language_modelling_Contextual_retrievability_11_1.png)
+![png](Language_modelling_Contextual_retrievability_11_1.png)
     
 
 
@@ -124,7 +124,7 @@ plt.show()
 
 
     
-![png](Language_modelling_Contextual_retrievability_files/Language_modelling_Contextual_retrievability_14_1.png)
+![png](Language_modelling_Contextual_retrievability_14_1.png)
     
 
 
@@ -151,7 +151,7 @@ plt.show()
 
 
     
-![png](Language_modelling_Contextual_retrievability_files/Language_modelling_Contextual_retrievability_16_1.png)
+![png](Language_modelling_Contextual_retrievability_16_1.png)
     
 
 
@@ -174,7 +174,7 @@ plt.show()
 
 
     
-![png](Language_modelling_Contextual_retrievability_files/Language_modelling_Contextual_retrievability_17_1.png)
+![png](Language_modelling_Contextual_retrievability_17_1.png)
     
 
 
@@ -212,7 +212,7 @@ plt.show()
 
 
     
-![png](Language_modelling_Contextual_retrievability_files/Language_modelling_Contextual_retrievability_21_0.png)
+![png](Language_modelling_Contextual_retrievability_21_0.png)
     
 
 
@@ -239,7 +239,7 @@ plt.show()
 
 
     
-![png](Language_modelling_Contextual_retrievability_files/Language_modelling_Contextual_retrievability_22_0.png)
+![png](Language_modelling_Contextual_retrievability_22_0.png)
     
 
 
@@ -264,7 +264,7 @@ plt.show()
 
 
     
-![png](Language_modelling_Contextual_retrievability_files/Language_modelling_Contextual_retrievability_23_0.png)
+![png](Language_modelling_Contextual_retrievability_23_0.png)
     
 
 
@@ -543,7 +543,7 @@ plt.show()
 
 
     
-![png](Language_modelling_Contextual_retrievability_files/Language_modelling_Contextual_retrievability_43_1.png)
+![png](Language_modelling_Contextual_retrievability_43_1.png)
     
 
 
@@ -594,7 +594,7 @@ plt.show()
 
 
     
-![png](Language_modelling_Contextual_retrievability_files/Language_modelling_Contextual_retrievability_46_1.png)
+![png](Language_modelling_Contextual_retrievability_46_1.png)
     
 
 
